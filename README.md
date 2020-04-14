@@ -10,7 +10,7 @@ jkgbnmhhshsmeYou need a Java JDK 7 or later to run the build. You can run the bu
 
     
 
-You kcnkccan run the app with:
+You kcnkccan run    the ffapp with:
 
     ./gradlew npm_start
 
