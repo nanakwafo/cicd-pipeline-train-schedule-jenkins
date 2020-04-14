@@ -4,7 +4,7 @@ mckcThis is a simple train schedule app written using nodejs. It is intended to 
 
 ## Running the app
 
-meYou need a Java JDK 7 or later to run the build. You can run the build like this:
+hhshsmeYou need a Java JDK 7 or later to run the build. You can run the build like this:
 
     ./gradlew build
 
