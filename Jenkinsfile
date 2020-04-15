@@ -4,7 +4,13 @@ pipeline{
      stage('Build'){
         steps{
          echo 'Running build automation'
-         archiveArtifacts artifacts:'dis/trainschedule.zip'
+         
+        }
+     }
+    stage('Deploy'){
+        steps{
+         echo 'Deploying application'
+         
         }
      }
   }
